@@ -35,3 +35,4 @@ The main goal of this project is to enable data-driven decision-making by visual
 3. Interact with the dashboard using slicers and filters to explore insights.
 
 ## 🖼️ Preview
+(Dashboard Image.png)
